@@ -1,0 +1,10 @@
+.cv-results {
+  flex: 60%;
+  background-color: white;
+  min-height: 80vh;
+  padding: 2vw;
+}
+
+.cv-results__card {
+  color: black;
+}

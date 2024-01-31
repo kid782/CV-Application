@@ -1,0 +1,13 @@
+.cv {
+  width: 100%;
+}
+
+.cv__holder {
+  display: flex;
+  justify-content: space-between;
+  gap: 10%;
+}
+
+.cv-create {
+  flex: 40%;
+}
